@@ -12,7 +12,7 @@ variables:
   azureSubscription: '7c4e3291-5494-40cd-b569-b43537136bc0'
   
   # Web app name
-  webAppName: 'Shruti'
+  webAppName: 'CICDDEMO'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
